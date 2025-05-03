@@ -1,9 +1,9 @@
-# CTS Controller
+# climax
 ## _Control and design temperature cycles for CTS climate chambers_
 
 ---
 
-**CTS Controller** is a Java application designed to **create**, **launch**, and **monitor** temperature cycles in CTS climate chambers over an **Ethernet connection**.
+**climax** is a Java application designed to **create**, **launch**, and **monitor** temperature cycles in CTS climate chambers over an **Ethernet connection**.
 
 ## Features
 
