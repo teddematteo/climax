@@ -41,7 +41,7 @@ For precise control, users can also modify the data manually by clicking the **"
 
 ## Manual Editing
 
-<img src="./examples/imm3.png" width="200"/>
+<img src="./examples/imm3.png" width="300"/>
 
 In this view, users can either fill the temperature-time table manually or **import data** from a `.csv` file. Once the cycle is saved, it can be started from the main interface using the **"Start Program"** button.
 
